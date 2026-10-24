@@ -1,0 +1,6 @@
+{
+  "name": "NetraVaani - Voice-First AI Vision Assistant",
+  "description": "A voice-first camera assistant for blind and low-vision individuals. Delivers real-time scene understanding, walking navigation, label reading, and hazard alerts in 11 Indian languages.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
